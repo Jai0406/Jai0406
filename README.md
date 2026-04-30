@@ -3,7 +3,8 @@ Hi, I'm Jai Verma <br><br>
 👨‍💻 **AI/ML Engineer at Yesmaa** <br>
 *Previously Data Scientist at Airdit Software & Data Analyst at Redink India.*<br><br>
 🎓 Currently pursuing MCA in Artificial Intelligence & Machine Learning from LPU.<br><br>
-I enjoy building data-driven solutions, working with machine learning models, and exploring new advancements in AI. My interests include:<br>
+I enjoy building data-driven solutions, working with machine learning models, and exploring new advancements in AI.
+  My interests include:<br>
 - Machine Learning & Deep Learning
 - AI Applications, RAG Pipelines & Model Deployment
 - Data Science, Analytics & System Optimization
