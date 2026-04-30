@@ -1,16 +1,18 @@
-# About Me:
-Hi, I'm Jai Verma <br><br>
-👨‍💻 **AI/ML Engineer at Yesmaa** <br>
-*Previously Data Scientist at Airdit Software & Data Analyst at Redink India.*<br><br>
-🎓 Currently pursuing MCA in Artificial Intelligence & Machine Learning from LPU.<br><br>
-I enjoy building data-driven solutions, working with machine learning models, and exploring new advancements in AI.
-  My interests include:<br>
-- Machine Learning & Deep Learning
-- AI Applications, RAG Pipelines & Model Deployment
-- Data Science, Analytics & System Optimization
+# About Me
+**Hi, I'm Jai Verma** 
 
-I’m open to collaborations on AI/ML and data science projects.<br>
-Feel free to connect with me. Always learning, always building.
+👨‍💻 **AI/ML Engineer @ Yesmaa** | *Specializing in Production-Grade AI Architectures*
+*Previously: Data Scientist @ Airdit Software | Data Analyst @ Redink India*
+🎓 MCA (AI & ML) candidate at LPU.
+
+I engineer end-to-end machine learning pipelines, bridging the gap between raw data and scalable, production-ready AI systems. My focus is on advanced clustering, predictive modeling, and system-level automation. 
+
+**What I do:**
+- Architect and deploy decoupled ML systems (FastAPI, Docker, Streamlit).
+- Develop automated workflows and optimize data processing engines.
+- Build robust analytical models for real-world, high-impact problem-solving.
+
+Always engineering. Open to deep-tech collaborations.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jai-verma-a4a028204/) 
@@ -34,13 +36,32 @@ Feel free to connect with me. Always learning, always building.
 **Backend, Deployment & Automation:**<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jai0406&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jai0406&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jai0406&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 Featured Projects & Developments
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jai0406&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🛒 Supermarket Customer Segmentation Engine
+* **Tech:** Python, FastAPI, Streamlit, HDBSCAN, PCA, Docker
+* **About:** An enterprise-ready, containerized 3-tier architecture that ingests transaction data and classifies customers into actionable business personas using advanced density-based clustering.
+* [https://github.com/Jai0406/Customer-Behavior-Analysis-ML](#)
+
+### 📈 Financial Intelligence Terminal
+* **Tech:** Python, Automation, System Optimization
+* **About:** A specialized proof-of-concept quantitative finance tool featuring automated data pipelines and parallel processing engines for tracking assets with real-time analysis.
+* [https://github.com/Jai0406/Nexus-FI](#)
+
+### 🩺 Predictive Health Analytics
+* **Tech:** XGBoost, Scikit-Learn, Streamlit
+* **About:** Deployed a risk prediction model utilizing optimized decision thresholds to maximize medical recall and diagnostic reliability.
+* [https://github.com/Jai0406/cardiovascular-risk-prediction-ml](#)
+
+---
+
+## 📈 GitHub Activity Highlights
+*(Focusing on quality commits and robust engineering over quantity)*
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jai0406&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jai0406&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
