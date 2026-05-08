@@ -1,16 +1,9 @@
 # About Me
-**Hi, I'm Jai Verma** 
-
-👨‍💻 **AI/ML Engineer @ Yesmaa** | *Specializing in Production-Grade AI Architectures*
+**Hi, I'm Jai Verma** 👨‍💻 **AI/ML Engineer @ Yesmaa** | *Specializing in Production-Grade AI Architectures*
 *Previously: Data Scientist @ Airdit Software | Data Analyst @ Redink India*
 🎓 MCA (AI & ML) candidate at LPU.
 
 I engineer end-to-end machine learning pipelines, bridging the gap between raw data and scalable, production-ready AI systems. My focus is on advanced clustering, predictive modeling, and system-level automation. 
-
-**What I do:**
-- Architect and deploy decoupled ML systems (FastAPI, Docker, Streamlit).
-- Develop automated workflows and optimize data processing engines.
-- Build robust analytical models for real-world, high-impact problem-solving.
 
 Always engineering. Open to deep-tech collaborations.
 
@@ -38,14 +31,19 @@ Always engineering. Open to deep-tech collaborations.
 
 ## 🚀 Featured Projects & Developments
 
+### 🧠 OmniDoc-AI: Local RAG Document Intelligence
+* **Tech:** Python, FastAPI, Streamlit, ChromaDB, FAISS, Ollama (Phi-3.5)
+* **About:** Engineered a fully local Retrieval-Augmented Generation engine featuring zero-latency semantic caching, robust parent-child document chunking, and precision reranking without relying on third-party cloud APIs.
+* [https://github.com/Jai0406/OmniDoc-AI](https://github.com/Jai0406/OmniDoc-AI)
+
 ### 🛒 Supermarket Customer Segmentation Engine
 * **Tech:** Python, FastAPI, Streamlit, HDBSCAN, PCA, Docker
 * **About:** An enterprise-ready, containerized 3-tier architecture that ingests transaction data and classifies customers into actionable business personas using advanced density-based clustering.
 * [https://github.com/Jai0406/Customer-Behavior-Analysis-ML](#)
 
-### 📈 Financial Intelligence Terminal
+### 📈 Financial Intelligence Terminal (Nexus Fi)
 * **Tech:** Python, Automation, System Optimization
-* **About:** A specialized proof-of-concept quantitative finance tool featuring automated data pipelines and parallel processing engines for tracking assets with real-time analysis.
+* **About:** Developed version 2.0 of a specialized Proof-of-Concept (POC) quantitative finance tool. Engineered a quad-engine architecture featuring an FX parity engine for real-time market tracking and automated risk assessment.
 * [https://github.com/Jai0406/Nexus-FI](#)
 
 ### 🩺 Predictive Health Analytics
@@ -55,19 +53,26 @@ Always engineering. Open to deep-tech collaborations.
 
 ---
 
-## 📈 GitHub Activity Highlights
-*(Focusing on quality commits and robust engineering over quantity)*
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jai0406&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🏆 Certifications & Achievements
+* **Gemini for Data Scientists and Analysts** — *Google* (Feb 2026)
+* **Postman API Fundamentals Student Expert** — *Postman* (Jan 2026)
+* **Academy Accreditation: Generative AI Fundamentals** — *Databricks* (Nov 2025)
+* **Advance Certification in Data Science and AI** — *INTTRVU.AI* (Mar 2025)
+* **SQL Certification** — *HackerRank* (Mar 2025)
+* **Corporate Job Simulations:**
+  * *Tata Group:* GenAI Powered Data Analytics (Nov 2025)
+  * *Deloitte Australia:* Data Analytics (Mar 2025)
+  * *Tata Group:* Data Visualization & Business Insights (Feb 2025)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jai0406&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📊 GitHub Activity Highlights
+*(Focusing on quality commits and robust engineering over quantity)*
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jai0406&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai0406&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=1)
+
+### 🔥 GitHub Streak Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jai0406&theme=dark&hide_border=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jai0406&icon=0&color=0)](https://visitcount.itsvg.in)
