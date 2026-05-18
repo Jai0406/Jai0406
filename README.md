@@ -31,10 +31,10 @@ Always engineering. Open to deep-tech collaborations.
 
 ## 🚀 Featured Projects & Developments
 
-### 🧠 OmniDoc-AI: Local RAG Document Intelligence
+### 🧠 AegisMind-AI: Advance RAG Intelligence
 * **Tech:** Python, FastAPI, Streamlit, ChromaDB, FAISS, Ollama (Phi-3.5)
 * **About:** Engineered a fully local Retrieval-Augmented Generation engine featuring zero-latency semantic caching, robust parent-child document chunking, and precision reranking without relying on third-party cloud APIs.
-* [https://github.com/Jai0406/OmniDoc-AI](https://github.com/Jai0406/OmniDoc-AI)
+* [https://github.com/Jai0406/OmniDoc-AI](#)
 
 ### 🛒 Supermarket Customer Segmentation Engine
 * **Tech:** Python, FastAPI, Streamlit, HDBSCAN, PCA, Docker
