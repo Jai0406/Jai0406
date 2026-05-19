@@ -1,7 +1,7 @@
 # About Me
 **Hi, I'm Jai Verma** 👨‍💻 **AI/ML Engineer @ Yesmaa** | *Specializing in Production-Grade AI Architectures*
 *Previously: Data Scientist @ Airdit Software | Data Analyst @ Redink India*
-🎓 MCA (AI & ML) candidate at LPU.
+🎓 MCA (AI & ML) student at LPU.
 
 I engineer end-to-end machine learning pipelines, bridging the gap between raw data and scalable, production-ready AI systems. My focus is on advanced clustering, predictive modeling, and system-level automation. 
 
@@ -17,39 +17,39 @@ Always engineering. Open to deep-tech collaborations.
 **Core, Languages & Data Warehousing:**<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-**Data Science & Machine Learning:**<br>
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-179AF1?style=for-the-badge) ![Random_Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+**Data Science, NLP & Machine Learning:**<br>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-179AF1?style=for-the-badge) ![Random_Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge) ![NER](https://img.shields.io/badge/NER-FF4500?style=for-the-badge) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 
 **Deep Learning & Computer Vision:**<br>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-007ACC?style=for-the-badge) ![RNN](https://img.shields.io/badge/RNN-FF4500?style=for-the-badge) ![LSTM](https://img.shields.io/badge/LSTM-8A2BE2?style=for-the-badge) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Generative AI & LLMs:**<br>
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=Ollama&logoColor=black) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge) ![Vector_DB](https://img.shields.io/badge/Vector_DB-00E5FF?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF4500?style=for-the-badge)
+**Generative AI, Search & LLMs:**<br>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=Ollama&logoColor=black) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge) ![Vector_DB](https://img.shields.io/badge/Vector_DB-00E5FF?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF4500?style=for-the-badge) ![FAISS](https://img.shields.io/badge/FAISS-33B5E5?style=for-the-badge) ![FlashRank](https://img.shields.io/badge/FlashRank-FF1493?style=for-the-badge)
 
 **Backend, Deployment & Automation:**<br>
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Pydantic_V2](https://img.shields.io/badge/Pydantic_V2-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ## 🚀 Featured Projects & Developments
 
-### 🧠 AegisMind-AI: Advance RAG Intelligence
-* **Tech:** Python, FastAPI, Streamlit, ChromaDB, FAISS, Ollama (Phi-3.5)
-* **About:** Engineered a fully local Retrieval-Augmented Generation engine featuring zero-latency semantic caching, robust parent-child document chunking, and precision reranking without relying on third-party cloud APIs.
-* [https://github.com/Jai0406/OmniDoc-AI](#)
+### 🧠 AegisMind-AI: Enterprise Architecture Showcase
+* **Tech:** Python, FastAPI, Pydantic V2, FAISS, FlashRank, ChromaDB, Ollama (Phi-3.5)
+* **About:** Engineered a fully local Retrieval-Augmented Generation pipeline featuring zero-latency semantic caching, dynamic intent-based vector routing, and precision reranking designed for secure enterprise environments.
+* **[View Architecture Showcase ➔](https://github.com/Jai0406/AegisMind-AI-Architecture)**
 
 ### 🛒 Supermarket Customer Segmentation Engine
 * **Tech:** Python, FastAPI, Streamlit, HDBSCAN, PCA, Docker
 * **About:** An enterprise-ready, containerized 3-tier architecture that ingests transaction data and classifies customers into actionable business personas using advanced density-based clustering.
-* [https://github.com/Jai0406/Customer-Behavior-Analysis-ML](#)
+* **[View Project ➔](https://github.com/Jai0406/Customer-Behavior-Analysis-ML)**
 
 ### 📈 Financial Intelligence Terminal (Nexus Fi)
-* **Tech:** Python, Automation, System Optimization
-* **About:** Developed version 2.0 of a specialized Proof-of-Concept (POC) quantitative finance tool. Engineered a quad-engine architecture featuring an FX parity engine for real-time market tracking and automated risk assessment.
-* [https://github.com/Jai0406/Nexus-FI](#)
+* **Tech:** Python, Selenium, Automation, System Optimization
+* **About:** Developed version 2.0 of a specialized quantitative finance tool. Engineered a quad-engine architecture featuring an FX parity engine for real-time market tracking and automated risk assessment.
+* **[View Project ➔](https://github.com/Jai0406/Nexus-FI)**
 
-### 🩺 Predictive Health Analytics
-* **Tech:** XGBoost, Scikit-Learn, Streamlit
-* **About:** Deployed a risk prediction model utilizing optimized decision thresholds to maximize medical recall and diagnostic reliability.
-* [https://github.com/Jai0406/cardiovascular-risk-prediction-ml](#)
+### ⛽ AutoFuel-ML: Predictive Automotive Analytics
+* **Tech:** Python, Scikit-Learn, Pandas, Regression Modeling
+* **About:** Developed a predictive machine learning pipeline designed to analyze automotive telemetry and historical data, optimizing forecasting for vehicle efficiency and operational metrics.
+* **[View Project ➔](https://github.com/Jai0406/AutoFuel-ML)**
 
 ---
 
